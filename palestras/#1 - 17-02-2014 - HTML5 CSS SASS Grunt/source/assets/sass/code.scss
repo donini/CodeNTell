@@ -1,0 +1,87 @@
+$corBack : #ff0000;
+
+* {
+	padding:0px;
+	margin: 0px;
+	border: 0px;
+	font-family: 'Courier New';
+}
+body {
+	background-color: $corBack;
+}
+header {
+	background-color: #000;
+}
+div#container {
+	width: 960px;
+	margin: 0 auto;
+	padding-top: 30px;
+}
+nav {
+	background-color: #fff;
+	width: 100%;
+	text-align: center;
+	padding-top: 17px;
+	padding-bottom: 17px;
+}
+nav ul li {
+	display: inline;
+	list-style: none;
+	padding-right: 100px;
+}
+nav ul li:nth-child(4) {
+	padding-right: 0px;
+}
+nav ul li a {
+	color: #000;
+	text-decoration: none;
+	font-size: 24px;
+	font-weight: bold;
+}
+figure#logo {
+	width: 960px;
+	margin: 0 auto;
+}
+figure#slider {
+	width: 100%;
+	text-align: center;
+}
+section#articles {
+	width: 300px;
+	float: left;
+	line-height: 30px;
+	padding-right: 30px;
+}
+section#articles a {
+	text-decoration: none;
+	color: #000;
+}
+section#articles h3 {
+	font-size: 22px;
+}
+section#articles p {
+	font-size: 14px;
+	padding-bottom: 20px;
+}
+section#news {
+	width: 300px;
+	float: left;
+	line-height: 30px;
+	padding-right: 30px;
+}
+section#news a {
+	text-decoration: none;
+	color: #000;
+}
+section#news h3 {
+	font-size: 22px;
+}
+section#news p {
+	font-size: 14px;
+	padding-bottom: 20px;
+}
+footer {
+	text-align: center;
+	padding-top: 100px;
+	padding-bottom: 30px;
+}

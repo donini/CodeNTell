@@ -1,5 +1,5 @@
-CodeNTell #1 - HTML5 CSS SASS Grunt
-=========
+CODE N' TELL #1 - HTML5 CSS SASS Grunt
+============
 
 Palestrantes:
 -------------
@@ -8,7 +8,7 @@ Palestrantes:
 
 Tópicos abordados:
 -------------
-*   HTML / HTML5
-*   CSS / CSS3
+*   HTML5
+*   CSS
 *   SASS
 *   Grunt
